@@ -10,7 +10,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>demo-impl</artifactId>
+    <artifactId>java-maven-springboot-multimodule-postgresql-impl</artifactId>
 
     <properties>
         <start-class>com.epam.edp.demo.DemoApplication</start-class>
@@ -19,7 +19,7 @@
     <dependencies>
         <dependency>
             <groupId>com.epam.edp</groupId>
-            <artifactId>demo-api</artifactId>
+            <artifactId>java-maven-springboot-multimodule-postgresql-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>

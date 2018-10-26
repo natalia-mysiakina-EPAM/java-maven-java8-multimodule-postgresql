@@ -9,8 +9,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-        <module>demo-api</module>
-        <module>demo-impl</module>
+        <module>java-maven-springboot-multimodule-postgresql-api</module>
+        <module>java-maven-springboot-multimodule-postgresql-impl</module>
     </modules>
 
 	<description>Demo project for Spring Boot</description>

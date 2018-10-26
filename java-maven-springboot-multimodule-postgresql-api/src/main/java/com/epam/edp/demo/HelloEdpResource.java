@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.GetMapping;
  */
 public interface HelloEdpResource {
 
-    @GetMapping(value = "/resource/hello")
+    @GetMapping(value = "/api/hello")
     String hello();
 }

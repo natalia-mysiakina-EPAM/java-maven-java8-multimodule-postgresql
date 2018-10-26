@@ -10,6 +10,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>demo-api</artifactId>
+    <artifactId>java-maven-springboot-multimodule-postgresql-api</artifactId>
 
 </project>
